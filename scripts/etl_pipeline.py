@@ -65,7 +65,7 @@ class AdultDataPipeline:
         logging.info("Performing analytical feature transformations...")
         
         # Binary target transform
-        self.df['income'] = self.df['income'].apply(lambda x: 1 if x == '>50K' else 0)
+        self.df['income'] = self.df['income'].apply(lambda x: 1 if x in ['>50K', '>50K.'] else 0)
         
         # Demographics Engine Bucketizing
         bins = [16, 25, 45, 65, 100]
