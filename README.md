@@ -203,7 +203,7 @@ Move beyond correlation to understand the true drivers of high-income status.
 | Agrima Gusain |  |  | Owner |  | Owner |  |  |
 | Tanmay Singh | Owner |  |  |  |  |  |  |
 | R Ashrith |  | Owner |  |  |  |  |  |
-| Ashish Kushwaha |  |  |  |  | Owner |  |  |
+| Ashish Kushwaha |  |  |  | Owner |  |  |  |
 
 
 _Declaration: We confirm that the above contribution details are accurate and verifiable through GitHub Insights, PR history, and submitted artifacts._
